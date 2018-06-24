@@ -16,3 +16,9 @@
 
 ### Lesson 6
 * [Lesson 6 - hometask](https://github.com/tsokh/front-end-pro-Hometasks/tree/master/Lesson6%20-%20hometask)
+
+### Lesson 7
+* [Lesson 7 - hometask](https://github.com/tsokh/front-end-pro-Hometasks/tree/master/Lesson7%20-%20hometask)
+
+### Lesson 8
+* [Lesson 8 - hometask](https://github.com/tsokh/front-end-pro-Hometasks/tree/master/Lesson8%20-%20hometask)
