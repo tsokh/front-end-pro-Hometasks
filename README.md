@@ -22,3 +22,9 @@
 
 ### Lesson 8
 * [Lesson 8 - hometask](https://github.com/tsokh/front-end-pro-Hometasks/tree/master/Lesson8%20-%20hometask)
+
+### Lesson 9
+* [Lesson 9 - hometask](https://github.com/tsokh/front-end-pro-Hometasks/tree/master/Lesson9%20-%20hometask)
+
+### Lesson 10
+* [Lesson 10 - hometask](https://github.com/tsokh/l10-git)
