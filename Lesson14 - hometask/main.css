@@ -1,0 +1,27 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.block {
+    width: 50px;
+    height: 200px;
+    border: 2px solid black;
+    position: fixed;
+    left: 300px;
+    top: 60px;
+    display: flex;
+    flex-direction: column-reverse;
+    justify-content: flex-start;
+}
+
+.block > div {
+    
+}
+
+.input {
+    width: 300px;
+    margin: 0 40px;
+    border: 2px solid black;
+}
