@@ -37,3 +37,6 @@
 
 ### Lesson 13
 * [Lesson 13 - hometask](https://github.com/tsokh/front-end-pro-Hometasks/tree/master/Lesson13%20-%20hometask)
+
+### Lesson 14
+* [Lesson 14 - hometask](https://github.com/tsokh/front-end-pro-Hometasks/tree/master/Lesson14%20-%20hometask)
