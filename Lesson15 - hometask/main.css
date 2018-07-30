@@ -1,0 +1,23 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.block {
+    width: 100px;
+    height: 100px;
+    border: none;
+    position: relative;
+    left: 300px;
+    top: 150px;
+    display: inline-block;
+    background-color: violet;
+    transition: all 0.2s;
+    -webkit-transition: all 0.2s;
+}
+
+.crowl {
+    transform: scale(1.15, 0.6);
+    transform-origin: center;
+}
