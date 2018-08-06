@@ -43,3 +43,6 @@
 
 ### Lesson 15
 * [Lesson 15 - hometask](https://github.com/tsokh/front-end-pro-Hometasks/tree/master/Lesson15%20-%20hometask)
+
+### Lesson 16
+* [Lesson 16 - hometask](https://github.com/tsokh/front-end-pro-Hometasks/tree/master/Lesson16%20-%20hometask)
